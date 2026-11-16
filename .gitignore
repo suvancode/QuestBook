@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Coverage
+coverage/
+
+# Environment
+.env*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python companion
+companion/__pycache__/
+companion/*.pyc
+companion/.venv/
+questbook_backups/
+
+# Playwright
+.playwright-cli/
+
+# IDE
+.vscode/
+.idea/
+
+# AI Studio artifacts
+.aistudio/
+.antigravity/
+public/assets/aistudio/
+metadata.json
+
+# Dev PWA service worker
+dev-dist/
+
+# Lock files (keep package-lock or pnpm-lock if used)
+bun.lock
