@@ -43,3 +43,7 @@ dev-dist/
 
 # Lock files (keep package-lock or pnpm-lock if used)
 bun.lock
+
+# Vercel
+.vercel/
+
