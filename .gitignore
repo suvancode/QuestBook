@@ -47,3 +47,5 @@ bun.lock
 # Vercel
 .vercel/
 
+
+.vercel
